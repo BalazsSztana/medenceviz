@@ -1,3 +1,12 @@
+/*
+* File: App.js
+* Author: Sztana Balázs
+* Copyright: 2023, Sztana Balázs 
+* Date: 2023-06-06
+* Web: http://github.com/BalazsSztana
+* Licenc: MIT
+*
+*/
 const doc = {
     heightInput: document.querySelector('#height'),
     widthInput: document.querySelector('#width'),
